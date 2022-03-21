@@ -1,0 +1,4 @@
+username: <vesync_username>
+password: <vesync_password>
+output: power.csv
+interval: 30

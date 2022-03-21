@@ -1,0 +1,2 @@
+pyvesync==1.4.3
+PyYAML==6.0
